@@ -1,0 +1,5 @@
+{
+  "name": "NewsQuest: The Daily Riddle",
+  "description": "An interactive game that turns trending news or any topic into visual riddles using Gemini 2.5 Flash and Image Generation models.",
+  "requestFramePermissions": []
+}
